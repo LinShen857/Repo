@@ -1,0 +1,19 @@
+# 本文件推送到 https://github.com/LinShen857/Repo
+# 模块仓库目前指向本地检出，push 之后把 repo 换成 https://github.com/LinShen857/<Repo>.git
+namespace: LinShen857
+modules:
+  - id: LinShen857/CanDevice
+    repo: C:/stm32/xr-modules/CanDevice
+  - id: LinShen857/CanRouter
+    repo: C:/stm32/xr-modules/CanRouter
+  - id: LinShen857/Motor_GM
+    repo: C:/stm32/xr-modules/Motor_GM
+  - id: LinShen857/Motor_DM
+    repo: C:/stm32/xr-modules/Motor_DM
+  - id: LinShen857/PowerMeter
+    repo: C:/stm32/xr-modules/PowerMeter
+  - id: LinShen857/Imu
+    repo: C:/stm32/xr-modules/Imu
+  - id: LinShen857/Dbus
+    repo: C:/stm32/xr-modules/Dbus
+bsps: []
