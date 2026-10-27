@@ -1,19 +1,19 @@
-# 本文件推送到 https://github.com/LinShen857/Repo
-# 模块仓库目前指向本地检出，push 之后把 repo 换成 https://github.com/LinShen857/<Repo>.git
+﻿# LinShen857 的 XRobot 模块源
+# 其他工程：xrobot source add-source https://raw.githubusercontent.com/LinShen857/Repo/main/index.yaml
 namespace: LinShen857
 modules:
   - id: LinShen857/CanDevice
-    repo: C:/stm32/xr-modules/CanDevice
+    repo: https://github.com/LinShen857/CanDevice.git
   - id: LinShen857/CanRouter
-    repo: C:/stm32/xr-modules/CanRouter
+    repo: https://github.com/LinShen857/CanRouter.git
   - id: LinShen857/Motor_GM
-    repo: C:/stm32/xr-modules/Motor_GM
+    repo: https://github.com/LinShen857/Motor_GM.git
   - id: LinShen857/Motor_DM
-    repo: C:/stm32/xr-modules/Motor_DM
+    repo: https://github.com/LinShen857/Motor_DM.git
   - id: LinShen857/PowerMeter
-    repo: C:/stm32/xr-modules/PowerMeter
+    repo: https://github.com/LinShen857/PowerMeter.git
   - id: LinShen857/Imu
-    repo: C:/stm32/xr-modules/Imu
+    repo: https://github.com/LinShen857/Imu.git
   - id: LinShen857/Dbus
-    repo: C:/stm32/xr-modules/Dbus
+    repo: https://github.com/LinShen857/Dbus.git
 bsps: []
